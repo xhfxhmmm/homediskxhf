@@ -2,6 +2,6 @@ package homediskxhf;
 
 public class helloworld {
     public static void main(String []args) {
-        System.out.println("Hello World!"); // ´òÓ¡£¨ÕâÊÇºº×Ö£© Hello World
+        System.out.println("Hello World!"); // æ‰“å° Hello World
     }
 }
